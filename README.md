@@ -4,7 +4,9 @@
 ___
 
 ### 개발환경
+- JDK 11.0.14
 - Spring Legercy 4.3.25.RELEASE
+- STS 3.9.1.8
 - mybatis 3.5.6
 - 페이징만을 위한 전자정부 프레임 워크 3.8.0
 - DBMS는 MariaDB를 사용하였습니다.
