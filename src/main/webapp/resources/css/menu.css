@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+a:visited, a:link, a:hover, a:active{
+	color:gray;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#menu {
+	width: 100%;
+	heigth: 50px;
+	background-color: black;
+}
+
+#navi {
+	margin: 0 auto;
+	height: 50px;
+	width: 1000px;
+	/* background-color: gray; */
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	padding: 15px 20px;
+	color: gray;
+}
+
+li:hover {
+	color: white;
+}
+
+li:a {
+	display: block;
+	color: gray;
+	text-align: center;
+	text-decoration: none;
+}
