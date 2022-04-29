@@ -1,4 +1,2 @@
-
 src/main/resources/spring/database-context.xml
 target/classes/spring/database-context.xml
-target/m2e-wtp/web-resources/META-INF/maven/com.woori/web/pom.properties
